@@ -1,0 +1,9 @@
+linea 1
+{
+    'persona 1':{
+        'nombre':'YOna','edad':'33'
+        }, 
+    'persona 2':{
+        'nombre':'Joan','edad':'38'
+        }
+}
